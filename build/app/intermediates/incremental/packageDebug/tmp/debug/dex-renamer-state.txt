@@ -1,0 +1,4 @@
+#Fri Oct 07 16:22:00 AST 2022
+base.0=/Users/d.ahmdbabqy/Developer/home_exercises/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
